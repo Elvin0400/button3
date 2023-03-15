@@ -1,0 +1,22 @@
+*{
+     box-sizing: border-box;
+    margin: 0;
+    text-align: center;
+}
+.reg{
+    display: inline-block;
+    width: 30%;
+    height: 150px;
+    padding: 45px;
+    padding-left: 0;
+}
+.btn-3{
+    background-color:olivedrab;
+    color: rgb(197, 29, 197);
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+
+}
+
+
